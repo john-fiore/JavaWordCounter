@@ -183,10 +183,4 @@ public class App extends JPanel {
 			comp.setEnabled(academicMode);
 		}
 	}
-	
-//	static int countWords(String paragraph)
-//	{
-//		
-//		return 0;
-//	}
 }
