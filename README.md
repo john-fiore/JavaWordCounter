@@ -8,4 +8,5 @@ Considering this was a mere learning project and something for a portfolio, I do
 
 > [!NOTE] 
 > Eclipse IDE's "WindowBuilder" plugin was used to create this app's GUI,
-> hence why the code looks the way it does.
+> hence why the code looks the way it does. However, it was only used in
+> the App.java file - no where else.
