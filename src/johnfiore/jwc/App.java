@@ -46,6 +46,7 @@ public class App extends JPanel {
 		setLayout(null);
 		
 		textArea = new JTextArea();
+		textArea.setWrapStyleWord(true);
 		textArea.setFont(new Font("Calibri", Font.BOLD, 13));
 		textArea.setLineWrap(true);
 		textArea.setBounds(10, 15, 295, 273);
